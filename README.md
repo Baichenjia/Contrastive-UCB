@@ -2,8 +2,8 @@
 
 This is a Pytorch implementation for our paper on 
 
-Contrastive UCB: 
-Provably Efficient Contrastive Self-Supervised Learning in Online Reinforcement Learning
+Shuang Qiu, Lingxiao Wang, Chenjia Bai, Zhuoran Yang, and Zhaoran Wang. Contrastive UCB: 
+Provably Efficient Contrastive Self-Supervised Learning in Online Reinforcement Learning. *International Conference on Machine Learning (ICML), 2022*
 
 ## Install 
 To install the requirements, follow these steps:
